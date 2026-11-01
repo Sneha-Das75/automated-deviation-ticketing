@@ -1,0 +1,6 @@
+pandas
+numpy
+openpyxl
+pdfplumber
+python-dotenv
+# pywin32   (only needed for SEND_MODE=OUTLOOK on Windows)

@@ -1,0 +1,47 @@
+﻿Ticket_ID,Ref_No,Base_Program,Course_Type,Program_Director,Assigned_To,Deviation_Type,Created_Date,Created_Month,Due_Date,Status,Is_Open,Is_Overdue,Age_Working_Days,Age_Bucket,Resolved_Date,Closed_Date,Resolution_Working_Days,Times_Reported,Repeat_Error_Count,Is_Repeat_Error
+DEV-2026-000001,ABC2001,Power BI Fundamentals,Open,Rohit,Rohit,PQI,2026-08-31,2026-08,2026-09-03,Closed,0,0,,,2026-08-31,2026-08-31,0.0,2,4,1
+DEV-2026-000002,ABC2002,Advance Excel,Request,Abhinav,Abhinav,PQI,2026-09-01,2026-09,2026-09-04,Closed,0,0,,,2026-09-07,2026-09-07,4.0,1,5,1
+DEV-2026-000003,ABC2003,Advance Excel,In-house,Abhinav,Abhinav,PQI,2026-09-02,2026-09,2026-09-07,In Progress,1,1,28.0,6+ days,,,,1,5,1
+DEV-2026-000004,ABC2004,Statistics for Analytics,Request,Rohit,Rohit,PQI,2026-09-02,2026-09,2026-09-07,Closed,0,0,,,2026-09-03,2026-09-04,1.0,1,4,1
+DEV-2026-000005,ABC2005,Project Management Basics,Open,Meera,Meera,Attendance,2026-09-03,2026-09,2026-09-08,Closed,0,0,,,2026-09-04,2026-09-08,1.0,1,6,1
+DEV-2026-000006,ABC2006,Tableau Dashboards,Open,Priya,Priya,Attendance,2026-09-03,2026-09,2026-09-08,Closed,0,0,,,2026-09-07,2026-09-08,2.0,2,2,1
+DEV-2026-000007,ABC2007,Python for Data Analysis,Request,Neha,Neha,PQI,2026-09-04,2026-09,2026-09-09,Closed,0,0,,,2026-09-07,2026-09-09,1.0,1,4,1
+DEV-2026-000008,ABC2008,Business Communication,Request,Karan,Karan,PQI,2026-09-07,2026-09,2026-09-10,Closed,0,0,,,2026-09-08,2026-09-08,1.0,1,1,0
+DEV-2026-000009,ABC2009,Machine Learning Intro,Open,Sanjay,Sanjay,PQI,2026-09-08,2026-09,2026-09-11,Closed,0,0,,,2026-09-09,2026-09-11,1.0,1,1,0
+DEV-2026-000010,ABC2010,Tableau Dashboards,Open,Priya,Priya,PQI,2026-09-08,2026-09,2026-09-11,Closed,0,0,,,2026-09-09,2026-09-09,1.0,1,1,0
+DEV-2026-000011,ABC2011,Business Communication,In-house,Karan,Karan,Attendance,2026-09-09,2026-09,2026-09-14,Closed,0,0,,,2026-09-16,2026-09-17,5.0,2,2,1
+DEV-2026-000012,ABC2012,Python for Data Analysis,Request,Neha,Neha,PQI,2026-09-09,2026-09,2026-09-14,Closed,0,0,,,2026-09-10,2026-09-11,1.0,1,4,1
+DEV-2026-000013,ABC2013,Power BI Fundamentals,Open,Rohit,Rohit,Attendance,2026-09-09,2026-09,2026-09-14,Closed,0,0,,,2026-09-16,2026-09-16,5.0,1,4,1
+DEV-2026-000014,ABC2014,Project Management Basics,Open,Meera,Meera,PQI,2026-09-10,2026-09,2026-09-15,Closed,0,0,,,2026-09-21,2026-09-22,7.0,1,3,1
+DEV-2026-000015,ABC2015,Power BI Fundamentals,Request,Rohit,Rohit,Attendance,2026-09-11,2026-09,2026-09-16,Closed,0,0,,,2026-09-14,2026-09-14,1.0,1,4,1
+DEV-2026-000016,ABC2016,Advance Excel Formulas,In-house,Neha,Neha,PQI,2026-09-14,2026-09,2026-09-17,Closed,0,0,,,2026-09-18,2026-09-22,4.0,2,4,1
+DEV-2026-000017,ABC2017,Project Management Basics,Open,Meera,Meera,Attendance,2026-09-15,2026-09,2026-09-18,Closed,0,0,,,2026-09-15,2026-09-16,0.0,1,6,1
+DEV-2026-000018,ABC2018,Business Communication,Open,Karan,Karan,Attendance,2026-09-15,2026-09,2026-09-18,Closed,0,0,,,2026-09-17,2026-09-17,2.0,1,2,1
+DEV-2026-000019,ABC2019,Advance Excel,Open,Abhinav,Abhinav,PQI,2026-09-15,2026-09,2026-09-18,Closed,0,0,,,2026-09-16,2026-09-18,1.0,1,5,1
+DEV-2026-000020,ABC2020,Tableau Dashboards,Open,Priya,Priya,Attendance,2026-09-16,2026-09,2026-09-21,Closed,0,0,,,2026-09-18,2026-09-21,2.0,1,2,1
+DEV-2026-000021,ABC2021,SQL Essentials,In-house,Sanjay,Sanjay,Attendance,2026-09-17,2026-09,2026-09-22,Closed,0,0,,,2026-09-18,2026-09-18,1.0,1,3,1
+DEV-2026-000022,ABC2022,Project Management Basics,In-house,Meera,Meera,Attendance,2026-09-17,2026-09,2026-09-22,Closed,0,0,,,2026-09-28,2026-09-28,7.0,1,6,1
+DEV-2026-000023,ABC2023,Advance Excel Formulas,In-house,Neha,Neha,Attendance,2026-09-21,2026-09,2026-09-24,In Progress,1,1,15.0,6+ days,,,,1,2,1
+DEV-2026-000024,ABC2024,Project Management Basics,In-house,Meera,Meera,Attendance,2026-09-21,2026-09,2026-09-24,Closed,0,0,,,2026-09-30,2026-10-02,7.0,1,6,1
+DEV-2026-000025,ABC2025,Project Management Basics,Request,Meera,Meera,PQI,2026-09-22,2026-09,2026-09-25,Closed,0,0,,,2026-09-28,2026-09-30,4.0,1,3,1
+DEV-2026-000026,ABC2026,Machine Learning Intro,Open,Sanjay,Sanjay,Attendance,2026-09-25,2026-09,2026-09-30,Closed,0,0,,,2026-09-30,2026-10-01,3.0,1,3,1
+DEV-2026-000027,ABC2027,Power BI Fundamentals,Open,Rohit,Rohit,FQI,2026-09-28,2026-09,2026-10-01,Closed,0,0,,,2026-10-05,2026-10-07,5.0,1,2,1
+DEV-2026-000028,ABC2028,Business Communication,Open,Karan,Karan,FQI,2026-09-28,2026-09,2026-10-01,Closed,0,0,,,2026-09-29,2026-09-30,1.0,1,1,0
+DEV-2026-000029,ABC2029,Advance Excel Formulas,In-house,Neha,Neha,FQI,2026-09-29,2026-09,2026-10-02,Closed,0,0,,,2026-10-05,2026-10-06,4.0,1,1,0
+DEV-2026-000030,ABC2030,Statistics for Analytics,In-house,Rohit,Rohit,Attendance,2026-09-29,2026-09,2026-10-02,Assigned,1,1,9.0,6+ days,,,,1,4,1
+DEV-2026-000031,ABC2031,SQL Essentials,Request,Sanjay,Sanjay,Attendance,2026-09-29,2026-09,2026-10-02,Assigned,1,1,9.0,6+ days,,,,2,3,1
+DEV-2026-000032,ABC2032,Excel Dashboards,Request,Abhinav,Abhinav,FQI,2026-09-30,2026-09,2026-10-05,In Progress,1,1,8.0,6+ days,,,,1,2,1
+DEV-2026-000033,ABC2033,Advance Excel Formulas,Open,Neha,Neha,PQI,2026-09-30,2026-09,2026-10-05,Closed,0,0,,,2026-10-09,2026-10-09,7.0,1,4,1
+DEV-2026-000034,ABC2034,Excel Dashboards,In-house,Abhinav,Abhinav,PQI,2026-09-30,2026-09,2026-10-05,Assigned,1,1,8.0,6+ days,,,,2,5,1
+DEV-2026-000035,ABC2035,Project Management Basics,In-house,Meera,Meera,PQI,2026-10-01,2026-10,2026-10-06,Assigned,1,1,7.0,6+ days,,,,1,3,1
+DEV-2026-000036,ABC2036,Project Management Basics,Request,Meera,Meera,Attendance,2026-10-01,2026-10,2026-10-06,Closed,0,0,,,2026-10-01,2026-10-01,0.0,1,6,1
+DEV-2026-000037,ABC2037,Excel Dashboards,Request,Abhinav,Abhinav,FQI,2026-10-02,2026-10,2026-10-07,Assigned,1,1,6.0,6+ days,,,,1,2,1
+DEV-2026-000038,ABC2038,Statistics for Analytics,In-house,Rohit,Rohit,Attendance,2026-10-02,2026-10,2026-10-07,Closed,0,0,,,2026-10-05,2026-10-07,1.0,1,4,1
+DEV-2026-000039,ABC2039,Python for Data Analysis,In-house,Neha,Neha,Attendance,2026-10-06,2026-10,2026-10-09,Assigned,1,1,4.0,3-5 days,,,,1,2,1
+DEV-2026-000040,ABC2040,Project Management Basics,In-house,Meera,Meera,FQI,2026-10-06,2026-10,2026-10-09,In Progress,1,1,4.0,3-5 days,,,,1,1,0
+DEV-2026-000041,ABC2041,Statistics for Analytics,Request,Rohit,Rohit,PQI,2026-10-07,2026-10,2026-10-12,Assigned,1,0,3.0,3-5 days,,,,1,4,1
+DEV-2026-000042,ABC2042,Power BI Fundamentals,In-house,Rohit,Rohit,PQI,2026-10-07,2026-10,2026-10-12,In Progress,1,0,3.0,3-5 days,,,,1,4,1
+DEV-2026-000043,ABC2043,Power BI Fundamentals,Open,Rohit,Rohit,FQI,2026-10-08,2026-10,2026-10-13,Assigned,1,0,2.0,0-2 days,,,,1,2,1
+DEV-2026-000044,ABC2044,Project Management Basics,Open,Meera,Meera,Attendance,2026-10-09,2026-10,2026-10-14,In Progress,1,0,1.0,0-2 days,,,,1,6,1
+DEV-2026-000045,ABC2045,Excel Dashboards,Open,Abhinav,Abhinav,PQI,2026-10-09,2026-10,2026-10-14,Assigned,1,0,1.0,0-2 days,,,,1,5,1
+DEV-2026-000046,ABC2046,Tableau Dashboards,Request,Priya,Priya,FQI,2026-10-09,2026-10,2026-10-14,Assigned,1,0,1.0,0-2 days,,,,1,1,0

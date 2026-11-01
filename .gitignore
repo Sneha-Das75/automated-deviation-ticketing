@@ -1,0 +1,13 @@
+# private settings and passwords
+.env
+mail_state.txt
+
+# created when the program runs
+email_previews/
+Deviation_Tracker*.xlsx
+dashboard_data/dashboard_tickets.csv
+
+# Python and Jupyter leftovers
+__pycache__/
+.ipynb_checkpoints/
+incoming/desktop.ini
